@@ -29,6 +29,8 @@
 
 ## 快捷键
 
+CmdOrCtrl 指 win为Ctrl，mac为Cmd
+
 |快捷键|作用|
 |:---|:---|
 |CmdOrCtrl + X|剪切|
