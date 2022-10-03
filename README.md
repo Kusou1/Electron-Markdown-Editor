@@ -7,11 +7,6 @@
 - Electron 19
 - React
 
-已支持的平台：
-
-- Windows 7 及以上
-- Mac OS
-- Linux
 #### 数据存储路径
 
 默认情况下，Markdown的数据存储在：
