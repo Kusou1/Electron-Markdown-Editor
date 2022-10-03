@@ -59,7 +59,3 @@ cd Electron-Markdown-Editor
 yarn && yarn dev
 ```
 
-
-### [Download Released App](https://github.com/Kusou1/Electron-Markdown-Editor)
-
-#### License [MIT](LICENSE.md)
